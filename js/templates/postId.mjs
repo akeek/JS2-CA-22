@@ -64,7 +64,7 @@ export function idPostTemp(data) {
   commentForm.innerHTML = `<label for="comment-body" class="form-label visually-hidden">Comment</label>
   <textarea class="form-control border-1" id="comment-body" name="comment-body" rows="2" placeholder="Comment here" required></textarea>
 <div class="d-flex mt-3">
-<button type="submit" class="btn btn-primary m-auto">Post</button>
+<button type="submit" class="btn btn-primary m-auto">Post comment</button>
 </div>`;
 
   commentContainer.append(commentForm);

@@ -32,4 +32,4 @@ The following user stories are optional:
 User can create a comment on a post
 User can edit profile media
 User can follow/unfollow a profile
-User can react to a post content item
+User can react to a post content item`
